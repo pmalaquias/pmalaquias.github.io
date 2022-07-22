@@ -8,11 +8,10 @@
 
 <div>
     <h2>About me</h2>
-    <a>
-        My name is Pedro Igor, I'm from the Historic City Ouro Preto, in the state of Minas Gerais.</br>
-        I am currently a student and researcher at the XR4Good laboratory at the Federal University of Ouro Preto (UFOP).</br>
-        I recently discovered that I have ADHD, and with that, in the face of difficulties, the opportunity arose to do research in the area at the XR4Good laboratory, with all the equipment it can offer me.
-    </a>
+    <p> My name is Pedro Igor, I'm from the Historic City Ouro Preto, in the state of Minas Gerais.</p>
+    <p>I am currently a student and researcher at the XR4Good laboratory at the Federal University of Ouro Preto (UFOP).</p>
+    <p>I recently discovered that I have ADHD, and with that, in the face of difficulties, the opportunity arose to do research in the area at the XR4Good laboratory, with all the equipment it can offer me.</p>
+   
 </div>
 
 <div>
